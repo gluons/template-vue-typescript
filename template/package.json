@@ -1,0 +1,25 @@
+{
+  "name": "<%= name %>",
+  "version": "1.0.0",
+  "description": "<%= description %>",
+  "private": true,
+  "author": "<%= username %> <<%= email %>>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "poi",
+    "build": "poi build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "vue": "^2.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.47",
+    "poi": "^9.4.3",
+    "poi-preset-typescript": "^9.0.2",
+    "typescript": "^2.5.3",
+    "vue-class-component": "^6.0.0"
+  }
+}

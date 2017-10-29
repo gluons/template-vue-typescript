@@ -1,0 +1,27 @@
+{
+  "name": "template-vue-typescript",
+  "version": "0.0.1",
+  "description": "A SAO template for Vue and TypeScript.",
+  "repository": {
+    "url": "gluons/template-vue-typescript",
+    "type": "git"
+  },
+  "author": "Saran Tanpituckpong <sarunta@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "sao.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "eslint": "^4.10.0",
+    "eslint-config-gluons": "^2.1.0",
+    "sao": "^0.22.8"
+  }
+}
