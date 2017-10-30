@@ -1,6 +1,6 @@
 # template-vue-typescript
 
-> A SAO template for Vue and TypeScript. 
+> A [SAO](https://sao.js.org/) template for [Vue](https://vuejs.org/) and [TypeScript](https://www.typescriptlang.org/). 
 
 ## Usage
 
@@ -26,4 +26,4 @@ sao gluons/template-vue-typescript my-project
 
 ## License
 
-MIT &copy; [gluons](https://github.com/gluons/template-vue-typescript)
+MIT &copy; [Saran Tanpituckpong](https://github.com/gluons)
