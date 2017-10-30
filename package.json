@@ -1,6 +1,6 @@
 {
   "name": "template-vue-typescript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A SAO template for Vue and TypeScript.",
   "repository": {
     "url": "gluons/template-vue-typescript",
